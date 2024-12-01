@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stepik-currency-converter/static/css/main.d4e82509.css",
+    "main.js": "/stepik-currency-converter/static/js/main.6df9125a.js",
+    "static/js/453.7d99a500.chunk.js": "/stepik-currency-converter/static/js/453.7d99a500.chunk.js",
+    "index.html": "/stepik-currency-converter/index.html",
+    "main.d4e82509.css.map": "/stepik-currency-converter/static/css/main.d4e82509.css.map",
+    "main.6df9125a.js.map": "/stepik-currency-converter/static/js/main.6df9125a.js.map",
+    "453.7d99a500.chunk.js.map": "/stepik-currency-converter/static/js/453.7d99a500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e82509.css",
+    "static/js/main.6df9125a.js"
+  ]
+}
